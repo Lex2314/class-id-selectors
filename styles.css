@@ -4,8 +4,8 @@
 #second {
     color: blue; font-size: 300%;
 }
-#third {
-    font-size: 200%; font-family: DejaVu Sans;
+.pink-background.third {
+    font-size: 200%; font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #fourth {
 background-color: rgb(111, 249, 111); font-weight: bold; font-size: 200%;
